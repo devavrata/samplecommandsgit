@@ -2,8 +2,9 @@ Class A{
  public static void main(String[] args){
    System.out.println("execute A");
  }
-public string abs(){
-String s=“dev”;
+//calculation method
+public string calculation(){
+String sirName=“dev”;
 System.out.println(“sharma”);
 }
 }
